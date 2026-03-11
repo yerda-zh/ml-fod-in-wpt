@@ -1,6 +1,6 @@
 # Foreign Object Detection in Wireless EV Charging using Machine Learning
 
-This repository contains the machine learning pipeline developed for foreign object detection (FOD) in wireless power transfer (WPT) systems for electric vehicles. The work is associated with a journal paper submitted to IEEE.
+This repository contains the machine learning pipeline developed for foreign object detection (FOD) in wireless power transfer (WPT) systems for electric vehicles. The work is associated with a journal paper submitted to Q1 journal.
 
 ## Overview
 
@@ -61,7 +61,7 @@ If you use this work, please cite the associated IEEE paper:
 
 ```
 Y. Zhumay, A. Zollanvari, and M. Bagheri, "Foreign Object Detection using Machine
-Learning in Wireless Electric Vehicle Charging," Nazarbayev University, 2024.
+Learning in Wireless Electric Vehicle Charging," Nazarbayev University, 2026.
 ```
 
 ## Acknowledgements
