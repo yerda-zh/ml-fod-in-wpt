@@ -15,7 +15,7 @@ The best-performing model, a **Random Forest classifier**, achieved:
 
 ```
 ├── feature_extraction.ipynb   # Signal processing and multi-domain feature engineering
-├── ml_localization.ipynb      # Model training, feature selection, and performance evaluation
+├── ml_classification.ipynb      # Model training, feature selection, and performance evaluation
 └── README.md
 ```
 
@@ -32,7 +32,7 @@ The best-performing model, a **Random Forest classifier**, achieved:
 - **Spectral-domain:** THD, SNR, spectral centroid, entropy, flatness, harmonic ratios (Welch's PSD)
 - **Wavelet-domain:** energy and entropy across 5 decomposition levels (Daubechies 4)
 
-### 3. ML Pipeline (`ml_localization.ipynb`)
+### 3. ML Pipeline (`ml_classification.ipynb`)
 - **Preprocessing:** 70/30 stratified train-test split, z-score standardization
 - **Feature selection:** Pearson correlation filtering (49 → 25 features) followed by model-specific RFE
 - **Models evaluated:** Random Forest, XGBoost, MLP, SVM, KNN, Logistic Regression
